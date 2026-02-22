@@ -1,4 +1,5 @@
 /* Simple auth using localStorage (demo only - no real backend) */
+// Added a simple comment
 const STORAGE_KEY = 'auth_portal_users';
 const SESSION_KEY = 'auth_portal_session';
 
